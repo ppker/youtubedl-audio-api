@@ -516,12 +516,12 @@
         },
         "yt-dlp": {
             "hashes": [
-                "sha256:0d8408f5b6d20487f5caeb946dfd04f9bcd2f1a3a125b744a0a982b590e449f7",
-                "sha256:4407dfc1a71fec0dee5ef916a8d4b66057812939b509ae45451fa8fb4376b539"
+                "sha256:442ba4c75724b9496144c8434b617962ee08d0ee7c26ec663848fe9b78d5a3e4",
+                "sha256:d50fcb95f48d61bedde33e408c1881d4c279e51c31354a599ce09e96ba0f4b86"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==2026.2.21"
+            "version": "==2026.6.9"
         },
         "zope.event": {
             "hashes": [
